@@ -3,8 +3,6 @@ import tensorflow.compat.v1 as tf
 tf.disable_v2_behavior() 
 import input_data
 
-
-# We use the TF helper function to pull down the data from the MNIST site
 mnist = input_data.read_data_sets("mnist_data/", one_hot=True)
     
 # x is placeholder for the 28 X 28 image data
