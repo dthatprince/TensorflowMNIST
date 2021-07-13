@@ -14,3 +14,8 @@ In the downloaded folders locate where the input_data.py file is then copy and p
 Then import input_data on your python terminal, it will sort it out for you. 
 
 You're Welcome
+
+
+
+Deep NN Update --
+*Added TensorBoard Preview - 
